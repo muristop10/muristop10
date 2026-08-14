@@ -6,7 +6,7 @@
 
 # Olá, eu sou o Murilo!
 
-Desenvolvedor focado em **JavaScript, TypeScript, React e Python**.
+Programador focado em **desenvolvimento web com ferramentas e frameworks modernos**.
 
 <div align="center">
 
@@ -18,6 +18,7 @@ Desenvolvedor focado em **JavaScript, TypeScript, React e Python**.
 -  **Data de Nascimento:** 27/09/2008
 -  Estudando e construindo aplicações Web (Front-end & Back-end).
 -  Sempre testando novas ferramentas e aprimorando minha lógica de programação.
+-  Atualmente moro na cidade de Chapecó - SC, estagiando na Desbravador Software e cursando o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas, pelo IFSC.
 
 ## 🚀 Tecnologias e Ferramentas
 <div align="center">
@@ -60,6 +61,12 @@ Desenvolvedor focado em **JavaScript, TypeScript, React e Python**.
 </table>
 
 </div>
+
+## 💼 Portfólio / Currículo
+
+Portfólio: __Em desenvolvimento!__
+
+Currículo: ![Baixe aqui!](LINK)
   
 ## 📬 Contato
 <div align="center">
@@ -91,9 +98,5 @@ Desenvolvedor focado em **JavaScript, TypeScript, React e Python**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muristop10&layout=compact&theme=tokyonight&hide_border)
 
 ![Visits](https://komarev.com/ghpvc/?username=muristop10&label=Visualiza%C3%A7%C3%B5es&color=2575fc&style=for-the-badge)
-
-## 💼 Portfólio
-
-__Em desenvolvimento!__
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120tion=footer)
