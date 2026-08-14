@@ -26,35 +26,35 @@ Desenvolvedor focado em **JavaScript, TypeScript, React e Python**.
   <tr>
     <td align="center"><strong>Linguagens</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,python" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,html,css,php" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=next,react" />
+      <img src="https://skillicons.dev/icons?i=next,react,vite,electron,bootstrap,tailwindcss" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><strong>Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=express,mysql" />
+      <img src="https://skillicons.dev/icons?i=express,mysql,nodejs," />
     </td>
   </tr>
 
   <tr>
     <td align="center"><strong>Banco de Dados</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,json," />
     </td>
   </tr>
 
   <tr>
     <td align="center"><strong>Ferramentas</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+      <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,figma,postman,npm,powershell,netlify" />
     </td>
   </tr>
 </table>
