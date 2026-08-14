@@ -1,74 +1,99 @@
+<div align="center">
 
-# 👋 Olá, eu sou o Murilo!
+![](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Murilo%20Thom%C3%A9&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-Desenvolvedor focado em JavaScript, TypeScript, React e Python. Gosto de criar soluções práticas, aprender novas tecnologias e resolver problemas reais com código.
+</div>
 
----
+# Olá, eu sou o Murilo!
 
-### 📌 Sobre mim
+Desenvolvedor focado em **JavaScript, TypeScript, React e Python**.
 
-- 🎂 **Data de Nascimento:** 27/09/2008
-- 🚀 Estudando e construindo aplicações Web (Front-end & Back-end).
-- 🛠️ Sempre testando novas ferramentas e aprimorando minha lógica de programação.
+<div align="center">
 
----
+![](https://readme-typing-svg.herokuapp.com/?color=2575FC&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo)
 
-## 🚀 Tecnologias
+</div>
 
-### Linguagens
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+## 📌 Sobre mim
+-  **Data de Nascimento:** 27/09/2008
+-  Estudando e construindo aplicações Web (Front-end & Back-end).
+-  Sempre testando novas ferramentas e aprimorando minha lógica de programação.
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sonner](https://img.shields.io/badge/Sonner-000000?style=for-the-badge)
-![React Toastify](https://img.shields.io/badge/React_Toastify-3498db?style=for-the-badge)
+## 🚀 Tecnologias e Ferramentas
+<div align="center">
+  
+<table>
+  <tr>
+    <td align="center"><strong>Linguagens</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python" />
+    </td>
+  </tr>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bcrypt](https://img.shields.io/badge/bcrypt-F7DF1E?style=for-the-badge)
-![Dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge)
-![CORS](https://img.shields.io/badge/CORS-555555?style=for-the-badge)
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=next,react" />
+    </td>
+  </tr>
 
-### Banco de Dados
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=express,mysql" />
+    </td>
+  </tr>
 
-### Ferramentas
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge
-)
----
+  <tr>
+    <td align="center"><strong>Banco de Dados</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+    </td>
+  </tr>
 
-### 🌐 Conecte-se comigo
+  <tr>
+    <td align="center"><strong>Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+    </td>
+  </tr>
+</table>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muristop10)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muristop10)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/muristop10)
+</div>
+  
+## 📬 Contato
+<div align="center">
+  
+  <p>
+    <a href="mailto:muristop@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://wa.me/5554996848291">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> 
+    </a>
+    <a href="https://instagram.com/muristop10">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> 
+    </a>
+    <a href="https://github.com/muristop10">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    </a>
+    <a href="https://discord.com/users/MUDARPARAOID">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+  
+</div>
+  
+## 📊 Stats
 
----
+![Snake](https://raw.githubusercontent.com/muristop10/muristop10/output/github-contribution-grid-snake-dark.svg)
 
-### 📊 Minhas Estatísticas no GitHub
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muristop10&layout=compact&theme=tokyonight&hide_border)
 
-![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muristop10&layout=compact&theme=dark)
+![Visits](https://komarev.com/ghpvc/?username=muristop10&label=Visualiza%C3%A7%C3%B5es&color=2575fc&style=for-the-badge)
 
---- 
-
-## 😎 Portfóilo:
+## 💼 Portfólio
 
 __Em desenvolvimento!__
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120tion=footer)
