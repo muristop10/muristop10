@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Murilo%20Thom%C3%A9&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![](./assets/banner.svg)
 
 </div>
 
@@ -30,28 +30,24 @@ Programador focado em **desenvolvimento web com ferramentas e frameworks moderno
       <img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,html,css,php" />
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=next,react,vite,electron,bootstrap,tailwindcss" />
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=express,mysql,nodejs," />
+      <img src="https://skillicons.dev/icons?i=express,mysql,nodejs" />
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Banco de Dados</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,json," />
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,json" />
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>Ferramentas</strong></td>
     <td>
@@ -66,7 +62,7 @@ Programador focado em **desenvolvimento web com ferramentas e frameworks moderno
 
 Portfólio: __Em desenvolvimento!__
 
-Currículo: ![Baixe aqui!](LINK)
+Currículo: [Baixe aqui!](https://raw.githubusercontent.com/muristop10/muristop10/main/assets/CurriculoMurilo.pdf)
   
 ## 📬 Contato
 <div align="center">
@@ -84,7 +80,7 @@ Currículo: ![Baixe aqui!](LINK)
     <a href="https://github.com/muristop10">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
     </a>
-    <a href="https://discord.com/users/MUDARPARAOID">
+    <a href="https://discord.com/users/887271434467045376">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
@@ -94,9 +90,7 @@ Currículo: ![Baixe aqui!](LINK)
 ## 📊 Stats
 
 ![Snake](https://raw.githubusercontent.com/muristop10/muristop10/output/github-contribution-grid-snake-dark.svg)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muristop10&layout=compact&theme=tokyonight&hide_border)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muristop10&layout=compact&theme=tokyonight&hide_border=true&v=1)
 ![Visits](https://komarev.com/ghpvc/?username=muristop10&label=Visualiza%C3%A7%C3%B5es&color=2575fc&style=for-the-badge)
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120tion=footer)
+![Footer](./assets/footer.svg)
