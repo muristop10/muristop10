@@ -89,8 +89,14 @@ Currículo: [Baixe aqui!](https://raw.githubusercontent.com/muristop10/muristop1
   
 ## 📊 Stats
 
+<div align="center">
+  
 ![Snake](https://raw.githubusercontent.com/muristop10/muristop10/output/github-contribution-grid-snake-dark.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muristop10&layout=compact&theme=tokyonight&hide_border=true&v=1)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=muristop10&layout=compact&theme=tokyonight&hide_border=true&v=1)
+
 ![Visits](https://komarev.com/ghpvc/?username=muristop10&label=Visualiza%C3%A7%C3%B5es&color=2575fc&style=for-the-badge)
+
+</div>
 
 ![Footer](./assets/footer.svg)
