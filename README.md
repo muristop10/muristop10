@@ -14,6 +14,13 @@ Programador focado em **desenvolvimento web com ferramentas e frameworks moderno
 
 </div>
 
+## 💼 Portfólio / Currículo
+
+Portfólio: <a href="https://portfolio-murilo-roan.vercel.app/" target="_blank">Acesse aqui!</a>
+
+Currículo: <a href="https://raw.githubusercontent.com/muristop10/muristop10/main/assets/CurriculoMurilo.pdf" target="_blank">Baixe aqui!</a>
+  
+
 ## 📌 Sobre mim
 -  **Data de Nascimento:** 27/09/2008
 -  Estudando e construindo aplicações Web (Front-end & Back-end).
@@ -58,29 +65,23 @@ Programador focado em **desenvolvimento web com ferramentas e frameworks moderno
 
 </div>
 
-## 💼 Portfólio / Currículo
-
-Portfólio: __Em desenvolvimento!__
-
-Currículo: [Baixe aqui!](https://raw.githubusercontent.com/muristop10/muristop10/main/assets/CurriculoMurilo.pdf)
-  
 ## 📬 Contato
 <div align="center">
   
   <p>
-    <a href="mailto:muristop@gmail.com">
+    <a href="mailto:muristop@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://wa.me/5554996848291">
+    <a href="https://wa.me/5554996848291" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> 
     </a>
-    <a href="https://instagram.com/muristop10">
+    <a href="https://instagram.com/muristop10" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> 
     </a>
-    <a href="https://github.com/muristop10">
+    <a href="https://github.com/muristop10" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
     </a>
-    <a href="https://discord.com/users/887271434467045376">
+    <a href="https://discord.com/users/887271434467045376" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
