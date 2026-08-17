@@ -22,7 +22,6 @@ Currículo: <a href="https://raw.githubusercontent.com/muristop10/muristop10/mai
   
 
 ## 📌 Sobre mim
--  **Data de Nascimento:** 27/09/2008
 -  Estudando e construindo aplicações Web (Front-end & Back-end).
 -  Sempre testando novas ferramentas e aprimorando minha lógica de programação.
 -  Atualmente moro na cidade de Chapecó - SC, estagiando na Desbravador Software e cursando o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas, pelo IFSC.
