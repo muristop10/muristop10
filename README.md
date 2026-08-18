@@ -57,7 +57,7 @@ Currículo: <a href="https://raw.githubusercontent.com/muristop10/muristop10/mai
   <tr>
     <td align="center"><strong>Ferramentas</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,figma,postman,npm,powershell,netlify" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,powershell,netlify" />
     </td>
   </tr>
 </table>
