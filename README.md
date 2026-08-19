@@ -90,6 +90,9 @@ Currículo: <a href="https://raw.githubusercontent.com/muristop10/muristop10/mai
 ## 📊 Stats
 
 <div align="center">
+
+
+![Streak](./streak-stats.svg)
   
 ![Snake](https://raw.githubusercontent.com/muristop10/muristop10/output/github-contribution-grid-snake-dark.svg)
 
