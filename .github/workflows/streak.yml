@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -17,6 +20,14 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           theme: tokyonight
+          output: streak-stats.svg
+          path: .
         env:
-          # A própria Action usa este token para salvar a imagem no seu repositório
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+          git add streak-stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update streak stats SVG" && git push)
