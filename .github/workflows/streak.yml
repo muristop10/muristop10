@@ -1,0 +1,36 @@
+name: Update Streak Stats SVG
+
+on:
+  # Runs every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to manually trigger it from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats SVG
+        uses: denvercoder1/github-readme-streak-stats@v2
+        with:
+          # Uses your GitHub username automatically
+          username: ${{ github.repository_owner }}
+          # Applies your preferred Tokyo Night theme
+          theme: tokyonight
+          # This saves the final file as "streak-stats.svg" in your repo
+          output: streak-stats.svg
+        env:
+          # Uses the secret token you saved in Step 2
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add streak-stats.svg
+          git commit -m "Update GitHub streak stats visual" || exit 0
+          git push
