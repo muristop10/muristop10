@@ -8,6 +8,8 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para a Action fazer o commit no seu repositório
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -17,7 +19,16 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           theme: tokyonight
-          # AJUSTADO: Aponta diretamente para o arquivo na raiz
-          path: ./streak-stats.svg
+          # O script vai salvar a imagem temporariamente com este nome na pasta atual
+          path: streak-stats.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # ESTE PASSO PEGA O ARQUIVO GERADO E SALVA NO SEU GITHUB DE VERDADE:
+      - name: Commit and Push to Repository Root
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add streak-stats.svg
+          git commit -m "Update GitHub streak stats visual" || exit 0
+          git push
