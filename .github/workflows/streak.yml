@@ -18,15 +18,5 @@ jobs:
           username: ${{ github.repository_owner }}
           theme: tokyonight
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      - name: Move and Commit Changes
-        run: |
-          # Move o arquivo gerado automaticamente para a raiz do repositório
-          mv /home/runner/work/${{ github.event.repository.name }}/${{ github.event.repository.name }}/generated/streak-stats.svg ./streak-stats.svg || mv ./generated/streak-stats.svg ./streak-stats.svg || true
-          
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@://github.com"
-          git add streak-stats.svg
-          git commit -m "Update GitHub streak stats visual" || exit 0
-          git push
+          # A própria Action usa este token para salvar a imagem no seu repositório
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
