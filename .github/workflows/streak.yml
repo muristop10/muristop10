@@ -21,10 +21,7 @@ jobs:
           path: streak-stats.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          # O TEMA DEVE FICAR EXATAMENTE AQUI:
-          THEME: tokyonight
-          # Se preferir esconder as bordas para combinar melhor com o perfil, descomente a linha abaixo:
-          # HIDE_BORDER: true
+          theme: tokyonight
 
       - name: Commit and Push to Repository Root
         run: |
