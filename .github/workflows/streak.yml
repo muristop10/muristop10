@@ -5,7 +5,7 @@ on:
     - cron: "0 3 * * *" # Executa todo dia às 03:00
   push:
     paths:
-      - ".github/workflows/streak.yml" # Mude para streak.yml se for o nome atual do seu arquivo
+      - ".github/workflows/streak.yml"
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
@@ -20,9 +20,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          # MUDADO PARA O SEU USUÁRIO, TEMA TOKYONIGHT E ANIMAÇÕES DESATIVADAS
-          options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=false
-          # MUDADO PARA A RAIZ DO REPOSITÓRIO
+          options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
           path: streak-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,4 +30,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add streak-stats.svg
           git commit -m "Update streak stats" || exit 0
-          git push
+          # ADICIONADO O -f PARA FORÇAR O ENVIO SEM CONFLITOS:
+          git push -f
